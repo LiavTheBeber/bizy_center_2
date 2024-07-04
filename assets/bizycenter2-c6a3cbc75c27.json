@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bizycenter2",
+  "private_key_id": "c6a3cbc75c273939f8fdf65005034c5799173ca6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDma//6ZgVenk82\nHHmNdC5jzTWuO0NUcD9jzEEVsIHKcJRk8nZE6Ff5Iyn9ym1pEsKCLzbxemL8+d54\n4XF+hScUlTBje37uM/+3Mc5ie+5RZVQ/4FUfAvFpAu/27GG51LxMS1STvILQc2Dm\nTw0zSu8wYKQTh4kmF+NkJknH1Vu/jxRyhPQnkgl/FhnOQZV0CWZ4Jxclzx8A10Tn\nj/l3oqfr4tuuQV0EzbEiblRuVRigKN4R1GP56yFkI01z7qB9tcjGUWkfCGoCehTn\nM25n/cPyYe9LYssOnD9ZLp7p9EBSgh8StWZmaoudIUS2AS4EEFYnFt8cHm1c4zbO\nsAvUWz9JAgMBAAECggEAAUmmuVFDI+t6EVkY4827qaKes23Q20KyU/4y+epN22IE\nLkk9mHZ88V89L5YnROBONniJk9FlhrjlwaKu5fBcDs0jo1awF6gyPGWam+nJ4+oP\nTbkU+LKlQzs5OJXLGQUDlWCRZS73Qy914eucrQX07r4HhLVr8orNIkTlgiii1d/1\n3Ar0Znka+Gkyaw7aKdVTRC11BH4QI/05jgZdv/LYmxFEanuwSaOTCGIp2KH71ayx\nvtmN0IWBUcEeUUUaWe+Nnl7+x5uHwXkGaewBhquaSzt16qw4g9OuspEQ6upM2CRt\npUUmS34ff7J+2UBt9Q9ozDd0qQs+2Riz1vVieky6oQKBgQD1/m3l1TDuvmGnIikJ\nDn4PTKRn0SyDjtinqn3PVaJ0BSoCPoYQiwEOJteOL6PRY4Uq8PCFeVaBwR7LeZzH\nhLYjq9VWCTg3HptmzbiXHGUem6p/YSEYw64KQRAFk8kbZXG1kQU89g7egjPqha2M\n0d4qzxom6Srx7k4HKzTAEKencQKBgQDvy2rMUa0oXxStNUF1YCKZZV6NHbWPs3Fj\n7Dg91WVXb0kzFHExVhLDg8CNa7h3LkpJYKMZVpfhVXmJOGjUOj6wg8aVuM64ve3J\nkki50KlFhQVE1bcrAeyeHbOqpjlKtgECGBx1LanK7/GwVuzorG9t1Ua45fRub8VJ\nCeZIqjgZWQKBgQDHOKsgO6xJbf4AMXYyU35cPaHYQlteoE1uXHFPfPb4J0aCUsiY\nlTrhjyt7h7GQXpz2zfK85ivdId4iw/bozt4DvaIk74qLeUo509nu55wtUbyfNLZt\nK+zDeTXUjn+MpHeWqEApwsz//0q0YFbReRYIbXmskaGqFWkz/RXXhqWAwQKBgEVj\nQ2AkMksAWGdWhb6FNv3US2viMOuILUOQ0yVxXoXSeggB3k88bOmOcmV5ykMSbgSV\nphxq5kAaD7UZUZw3znQdbZVdiNQEgY5WehzquFCZkVC91ubnA6UtSxQSTXnE+L22\nZGWz9PH4RKOWQ6+AVi4eDPzr7bMXPKtJ5g0Y1GrhAoGAaBtIqm7qkA3SatkiJ23q\nPfr2hvbHSlRPV62fpypBPEQvKjN31vlqsXNOnZrVZinXAJKNZYpyB/5F0/W63Acu\n0A9bUBBXIAwNXOVGkKfTauruZboYwqXw/hXjp2pDkE+cKXXvd0KuSpMayHXfSnik\n+h8YlRwqKsV36hI3OMBMn04=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bizycenter@bizycenter2.iam.gserviceaccount.com",
+  "client_id": "112900047300978143335",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bizycenter%40bizycenter2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
